@@ -43,3 +43,98 @@ Atmosphere
 The Moon has a very thin and weak atmosphere. It does not provide any protection from the Sun's radiation or impacts from meteoroids.
 Magnetosphere
 The early Moon may have developed an internal dynamo, the mechanism for generating global magnetic fields for terrestrial planets, but today, the Moon has a very weak magnetic field. The magnetic field here on Earth is many thousands of times stronger than the Moon's magnetic field.
+Moon Phases
+In our entire solar system, the only object that shines with its own light is the Sun. That light always beams onto Earth and Moon from the direction of the Sun, illuminating half of our planet in its orbit and reflecting off the surface of the Moon to create moonlight. Sometimes the entire face of the Moon glows brightly. Other times we see only a thin crescent of light. Sometimes the Moon seems to disappear. These shifts are called Moon phases.
+
+The eight lunar phases are, in order: new Moon, waxing crescent, first quarter, waxing gibbous, full Moon, waning gibbous, third quarter, and waning crescent. The cycle repeats about once a month (every 29.5 days).
+
+Like Earth, the Moon has a day side and a night side, which change as the Moon rotates. The Sun always illuminates half of the Moon while the other half remains dark, but how much we are able to see of that illuminated half changes as the Moon travels through its orbit.
+All Moon Phases
+Let’s take a look at the individual phases, and how the movements of the Moon and Sun appear to us as we watch from the Northern Hemisphere on Earth:
+
+New Moon
+
+This is the invisible phase of the Moon, with the illuminated side of the Moon facing the Sun and the night side facing Earth. In this phase, the Moon is in the same part of the sky as the Sun and rises and sets with the Sun. Not only is the illuminated side facing away from the Earth, it’s also up during the day! Remember, in this phase, the Moon doesn’t usually pass directly between Earth and the Sun, due to the inclination of the Moon’s orbit. It only passes near the Sun from our perspective on Earth.
+Waxing Crescent
+
+This silver sliver of a Moon occurs when the illuminated half of the Moon faces mostly away from Earth, with only a tiny portion visible to us from our planet. It grows daily as the Moon’s orbit carries the Moon’s dayside farther into view. Every day, the Moon rises a little bit later.
+First Quarter
+
+The Moon is now a quarter of the way through its monthly journey and you see half of its illuminated side. People may casually call this a half Moon, but remember, that’s not really what you’re witnessing in the sky. You’re seeing just a slice of the entire Moon ― half of the illuminated half. A first quarter Moon rises around noon and sets around midnight. It’s high in the sky in the evening and makes for excellent viewing.
+Waxing Gibbous
+
+Now most of the Moon’s dayside has come into view, and the Moon appears brighter in the sky.
+Full Moon
+
+This is as close as we come to seeing the Sun’s illumination of the entire day side of the Moon (so, technically, this would be the real half moon). The Moon is opposite the Sun, as viewed from Earth, revealing the Moon’s dayside. A full Moon rises around sunset and sets around sunrise. The Moon will appear full for a couple of days before it moves into…
+Waning Gibbous
+
+As the Moon begins its journey back toward the Sun, the opposite side of the Moon now reflects the Moon’s light. The lighted side appears to shrink, but the Moon’s orbit is simply carrying it out of view from our perspective. The Moon rises later and later each night.Last Quarter
+
+The Moon looks like it’s half illuminated from the perspective of Earth, but really you’re seeing half of the half of the Moon that’s illuminated by the Sun ― or a quarter. A last quarter Moon, also known as a third quarter Moon, rises around midnight and sets around noon.
+Waning Crescent
+
+The Moon is nearly back to the point in its orbit where its dayside directly faces the Sun, and all that we see from our perspective is a thin curve.
+Our Wobbly Moon
+When we think of the way the Moon seems to change over the course of a month, we think of phases. But frequent Moon observers know that the Moon also appears to twist, nod, and roll slightly during its journey across the sky, allowing us to peek around the Moon's shoulder and catch glimpses of the farside. This phenomenon is called libration.Because the Moon's orbit is not perfectly circular, its distance from Earth and its speed in orbit both change slightly throughout the month. The Moon’s rate of rotation around its own axis, though, always stays the same.
+
+When the Moon is at its closest to Earth and moving most quickly along its orbital path, the Moon itself doesn’t rotate quite fast enough to keep entirely the same side facing us, and we get to see a little more of the eastern side of the Moon. When the Moon is farthest from Earth and orbiting at its slowest, its rotation gets a little ahead, and we see a bit more of its western side. We call this motion “libration in longitude.”
+
+The 5 degree tilt of the Moon’s orbit also causes it to appear to nod, as though it were saying “yes.” The tilt sometimes brings the Moon above Earth’s northern hemisphere, and sometimes below Earth’s southern hemisphere, allowing us to see slightly more of the northern or southern hemispheres of the Moon. We call this motion “libration in latitude.”
+
+Finally, the Moon appears to tilt back and forth like a metronome. The tilt of the Moon’s orbit contributes to this, but it’s mostly due to the tilt of our Earth. Earth has a tilt of 23.5 degrees on its axis, which means that when we observe the Moon from Earth, it’s a little like we’re standing sideways on a ramp. If you look left, the ramp slopes up. If you look right, the ramp slopes down. In front of you, the horizon looks higher on the right and lower on the left. If you turn around, the horizon appears to tilt the opposite way.
+
+The tilted ramp works the same way as the tilted “platform” of the Earth beneath our feet. Every two weeks, we have to look in the opposite direction to see the Moon, and the ground beneath our feet is then tilted the opposite way as well.
+
+Earthshine
+
+Sometimes, when the Moon is in one of its crescent phases, we can still see the darkened area of the Moon’s nearside shining dimly. This effect is caused by the Sun’s light reflecting off Earth’s surface onto the face of the Moon. Because Earth at that point in its orbit is nearly full from the Moon’s perspective, the light it reflects, called earthshine, is bright enough to dimly illuminate the darkened surface.
+
+Daytime Moons
+
+Though the Moon is often thought of as a nighttime visitor, it’s also visible during the day as a faint, pale presence. The best times to see a daytime Moon are perhaps during the first and last quarter phases, when the Moon is high enough above the horizon and at about 90 degrees from the Sun in the sky. This helps make the Sun’s reflected light bright enough to see as it reflects off of the Moon. The Moon can be seen in the daylit sky at any phase except for the new Moon, when it’s invisible to us, and full Moon, when it’s below the horizon during the day. The crescent through quarter phases are high in the sky during the day, but the daytime gibbous phases can be glimpsed only just before the Sun sets.
+Overview From Space
+Imagine you’re in a spaceship, traveling away from Earth. As you sail onward, you see our planet and its Moon locked together in their endless, circling, gravitational embrace. Your distant view gives you a unique perspective on the Moon that can be hard to visualize from the ground, where the Moon appears to sweep through the sky as an ever-changing globe of light.From your astronaut’s viewpoint, you can see that the Moon is an average of 238,855 miles (384,399 km) from Earth, or about the space that could be occupied by 30 Earths. It travels around our planet once every 27.322 days in an elliptical orbit, an elongated circle. (It takes about 27.3 days to complete a revolution, but 29.5 days to change from new moon to new moon.) The Moon is tidally locked with Earth, which means that it spins on its axis exactly once each time it orbits our planet. Because of this, people on Earth only ever see one side of the Moon. We call this motion synchronous rotation.
+Moonlight
+What is Moonlight?
+The Moon does not make its own light. "Moonlight” is actually reflected sunlight. At any moment, half of the Moon is brightly sunlit (this is the day side). The other half is in the dark (this is the night side). Throughout the month, as the Moon rotates and orbits, day and night occur on different parts of its surface, just like on Earth. Unlike our planet, though, the Moon takes a whole month to complete one rotation. This means that lunar day and night are each about two Earth weeks long.
+
+The View From Home
+We always see the same face of the Moon from Earth—the “lunar nearside.” Each month, as day and night sweep across the lunar nearside, the sunlit part of our view takes on a series of familiar shapes: crescent, half-moon, full, and more. Moon phases are really just the overlap between lunar daylight and the Moon’s Earth-facing side.
+
+What Color is the Moon?
+From here on Earth, the sunlit part of the Moon usually looks bright, almost white. This is an illusion. The brightness of the Sun’s reflected light makes it difficult to see the Moon’s actual color from a distance. A closer look reveals that much of the Moon’s scenery comes in shades of dark gray, like rocks found near volcanoes on our own world. The Moon has volcanic rock from ancient lava flows ― and these dark-colored materials absorb most of the visible light that reaches them.Overall, only about one-tenth of the sunlight that hits the Moon is reflected back into space. This ratio of reflected light is called albedo. For comparison, our watery planet bounces about three-tenths of incoming rays back into space. Venus has an even higher albedo than Earth, reflecting well over half of the sunlight that reaches it.
+
+So, how does the dark, volcanic Moon outshine Venus in our sky? It all comes down to distance. The Moon orbits Earth at an average distance of about 239,000 miles (385,000 kilometers). That’s a long way by human standards, but almost nothing compared to the tens of millions of miles that separate Earth and Venus. Thanks to this relative closeness, a full moon directs enough sunlight towards our planet to cast sharp shadows on the ground. The Moon’s albedo may be tiny, but even a small amount of reflected sunshine is enough to make the Moon seem brilliant from our perspective on Earth.
+
+The “Man in the Moon” and Other Stories
+If you’ve ever found a face, an animal, or another image in the Moon’s patterns of darker and lighter gray, you have compared albedos for yourself! The Moon’s ancient, hardened volcanic seas are made of basalt. These areas reflect less light (have lower albedo). The lunar highlands look brighter because they contain more reflective (or higher-albedo) rocks, like anorthosite.
+
+Next time you observe the Moon, you’ll know: those darker-gray patches are really vast oceans of cooled lava.
+
+LRO: A Closer Look
+Telescopes and robotic explorers let us look even more carefully at the Moon’s albedo patterns. Images captured by NASA’s Lunar Reconnaissance Orbiter (LRO) show small variations in great detail. Scientists use albedo data and other evidence to figure out what the lunar landscape is made of.
+Water & Ices on the Moon
+What’s big, covered in water, yet 100 times drier than the Sahara Desert? It’s not a riddle, it’s the Moon! For centuries, astronomers debated whether water exists on Earth’s closest neighbor. In 2020, data from NASA’s SOFIA mission confirmed water exists in the sunlit area of the lunar surface as molecules of H2O embedded within, or perhaps sticking to the surface of, grains of lunar dust. Here is a brief history of the discoveries leading up to the confirmation of water on the Moon.
+
+Maria on the Moon (1645)
+When early astronomers looked up at the Moon, they were struck by the large, dark spots on its surface. In 1645, Dutch astronomer Michael van Langren published the first-known map of the Moon referring to the dark spots as “maria” – the Latin word for “seas” – and putting into writing the widely-held view that the marks were oceans on the lunar surface. Similar maps from Johannes Hevelius (1647), Giovanni Riccioli and Francesco Grimaldi (1651) were published over the next few years. We now know these spots to be plains of basalt created by early volcanic eruptions, but the nomenclature of ‘maria’ (plural) or ‘mare’ (singular) remains.
+Totally Dry Moon (1892)
+American astronomer William Pickering made measurements in the late 1800s that led him to conclude the Moon essentially has no atmosphere. With no clouds and no atmosphere, scientists generally agreed that any water on the lunar surface would evaporate immediately. Pickering’s measurements led to a widespread view that the Moon was devoid of water.
+Ideas of Water (1960s)
+As scientists made headway in understanding the behavior of substances that are prone to vaporize at relatively low temperatures – called volatiles – theoretical physicist Kenneth Watson published a paper in 1961 describing how a substance like water could exist on the Moon. Watson’s paper first popularized the idea that water ice could stick to the bottom of craters on the Moon that never receive light from the Sun, while sunlit areas on the Moon would be so hot that water would evaporate near-instantly. These lightless areas of the Moon are called “permanently shadowed regions.”
+
+Apollo Landings (1969 – 1972)
+The Apollo era brought humans to the lunar surface for the very first time, giving researchers the opportunity to directly look for signs of water on the Moon. When tested, soil samples brought back by Apollo astronauts revealed no sign of water. Scientists concluded that the lunar surface must be completely dry, and the prospect of water wasn’t seriously considered again for decades.
+Possible Frozen Water in Shadowed Craters (1994, 1998)
+NASA’s Clementine mission launched in 1994 to orbit the Moon for two months and collect information about its minerals. Clementine data suggested there was ice in a permanently shadowed region of the Moon. The Lunar Prospector Mission focused on permanently shadowed craters to look deeper into the discovery and in 1998 found that the largest concentrations of hydrogen exist in the areas of the lunar surface that are never exposed to sunlight. The results indicated water ice at the lunar poles. However, the images were low resolution so no strong conclusions could be made.
+Revisiting Apollo Samples (2008)
+Capitalizing on major advances in technology since the Apollo era, researchers from Brown University revisited the Apollo samples. They found hydrogen inside tiny beads of volcanic glass. Since no volcanoes are erupting on the Moon today, the discovery presented evidence that water had existed in the Moon when the volcanoes erupted in the Moon’s ancient past. Additionally, the preserved hydrogen provided clues to the origins of lunar water: if it emerged from erupting volcanoes, it must have come from within the Moon. The discovery suggested that water was a part of the Moon since its early existence – and perhaps since it first formed.
+Signs of Hydration (2009)
+Chandrayaan, Cassini, Deep Impact
+
+A suite of spacecraft enabled exciting discoveries in 2009. None were designed to look for water on the Moon, yet the Indian Space Research Organization’s Chandrayaan-1 and NASA’s Cassini and Deep Impact missions detected signs of hydrated minerals in the form of oxygen and hydrogen molecules in sunlit areas of the Moon. Researchers couldn’t determine whether they were seeing hydration by hydroxyl (OH) or water (H2O). They also debated whether the amount of hydration depended on the time of day.
+Observations of Lunar Debris Reveal More (2009 – 2019)
+The Lunar Crater Observation and Sensing Satellite (LCROSS) spacecraft and Lunar Reconnaissance Orbiter (LRO) launched together in 2009. Later that year, LCROSS intentionally discharged a projectile into a crater believed to contain water ice, and flew through the debris from the projectile’s impact. Four minutes later, LCROSS itself intentionally impacted the Moon while LRO observed. The combined observations showed grains of water ice in the ejected material. The LRO and LCROSS findings added to a growing body of evidence that water exists on the Moon in the form of ice within permanently shadowed regions. LRO continues to orbit the Moon and provide data used to characterize and map lunar resources, including hydrogen.
+Confirmation of Moon Water – Shadowed Regions (2018)
+Data from Moon Mineralogy Mapper (M3), carried by ISRO's Chandrayaan-1, provided scientists with the first high-resolution map of the minerals that make up the lunar surface. The NASA instrument flew aboard India’s Chandrayaan-1 mission in 2009. An analysis of the full set of data from M3, announced in 2018, revealed multiple confirmed locations of water ice in permanently shadowed regions of the Moon.
