@@ -19,7 +19,7 @@ db = Chroma(
 )
 
 # Search for relevant documents
-query = "How the Moon Got Its Name"
+query = "Tell me about NASA missions"
 
 retriever = db.as_retriever(search_kwargs={"k": 1})
 
